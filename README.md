@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/s-m-saad-a9a238299/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin" />
   </a>
-  <a href="mailto:s.m.saad001@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=s.m.saad001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail" />
   </a>
 </p>
