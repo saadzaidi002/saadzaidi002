@@ -1,76 +1,75 @@
-<h1 data-importer="text" align="left">Hey what's up?</h1>
+<p align="center">
+  <samp>
+    <h1>👋 Hi, I'm Syed Muhammad Saad Hussain Zaidi</h1>
+  </samp>
+  <h3>🌌 Physicist • Data Scientist • Web Developer</h3>
+  <p>🚀 <em>Bridging the gap between hardware, data, and software to build intelligent applications.</em></p>
+</p>
 
-###
+<p align="center">
+  <a href="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin" /></a>
+  <a href="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail" /></a>
+  <a href="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&style=for-the-badge" height="30" alt="slack" /></a>
+</p>
 
-<h3 data-importer="text" align="left">I'm Syed Muhammad Saad Hussain Zaidi</h3>
+---
 
-###
+## 🌌 About Me
 
-<p data-importer="text" align="left">Physicist | Data Scientist | Web Developer<br>I build scalable solutions bridging the gap between hardware, data, and software. Specializing in IoT systems, machine learning, and full-stack development to create intelligent, data-driven applications.</p>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <p>⚛️ I am a highly motivated Physicist specializing in scientific computing, machine learning, and IoT hardware deployment. My work naturally gravitates toward solving complex analytical problems, developing end-to-end data pipelines, and implementing real-time tracking architectures.</p>
+      <p>🚀 Whether it's deploying predictive architectures or crafting full-stack software solutions for seamless hardware integration, I thrive exactly at the intersection of data, software, and physical systems.</p>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*vIdeUIq4I2E2ykTXJJJaRQ.gif" width="100%" style="border-radius: 10px;" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-###
+---
 
-<h2 data-importer="text" align="left">About me</h2>
+## 🛠️ Tech Stack & Toolbox
 
-###
+### 🧠 Programming Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+</p>
 
-<img data-importer="image" align="right" height="200" src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*vIdeUIq4I2E2ykTXJJJaRQ.gif"  />
+### 🌐 Web & Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+</p>
 
-###
+### 📊 Data Science, Databases & Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
+</p>
 
-<p data-importer="text" align="left">⚛️ A highly motivated Physicist with a strong focus on software, machine learning, and IoT development. Over my academic career, I've consistently tackled complex analytical problems and built end-to-end data pipelines, predictive models, and web platforms 📊🤖<br>🚀 Whether it's deploying hybrid machine learning models to predict financial risk or developing full-stack solutions for hardware integration, I thrive at the intersection of data, software, and scientific computing 💻🔬</p>
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  <img src="https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
+</p>
 
-###
+---
 
-<h2 data-importer="text" align="left">I code with</h2>
+## 📊 Analytics & Insights
 
-###
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadzaidi002&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="160" alt="languages graph" />
+</p>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<div data-importer="stats" align="left">
-  <!-- Switched to official reliable mirror server to prevent resource fetching errors -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saadzaidi002&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="29" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="29" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=flat" height="29" alt="slack logo"  />
-</div>
+---
